@@ -29,7 +29,7 @@ To add this entry you can pass the following variables on plugin install.
 
 - `CAMERA_USAGE_DESCRIPTION` for `NSCameraUsageDescription`
 - `PHOTOLIBRARY_USAGE_DESCRIPTION` for `NSPhotoLibraryUsageDescriptionentry`
--
+
 Example:
 
     cordova plugin add cordova-plugin-camera --variable CAMERA_USAGE_DESCRIPTION="your usage message"
